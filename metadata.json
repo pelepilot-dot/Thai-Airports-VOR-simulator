@@ -1,0 +1,5 @@
+{
+  "name": "Thai Airports Map",
+  "description": "Interactive map of airports in Thailand with ICAO, runways, VOR stations, and AI image generation.",
+  "requestFramePermissions": []
+}
